@@ -11,9 +11,11 @@ Supported os : <b>Linux OS</b>
   
 <h5> Install requirement Libraries to compile and run this code<h5>
   Download and locate folder
+  Download tkinter for GUI
   Open terminal than copy and paste below code in terminal
   
   ```
+  pip install tk
   pip install -r requirements.txt
   ```
 ---
