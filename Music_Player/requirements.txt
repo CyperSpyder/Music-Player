@@ -1,3 +1,2 @@
-tk==8.6
 audioplayer==0.6
 mutagen==1.45.1
